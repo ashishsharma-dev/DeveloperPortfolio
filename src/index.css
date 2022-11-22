@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Agustina';
+    src: url('./assets/Agustina.woff');
+}
+
+.customFont {
+    font-family: Agustina, sans-serif;
+}
+
+.active {
+    color: rgb(52 211 153);
+}
+
+#hideControl {
+    display: none;
+}
+
+
+.hideScrollBar::-webkit-scrollbar {
+    /* display: none; */
+    width: 4px;
+}
+
+.hideScrollBar::-webkit-scrollbar-track {
+    /* display: none; */
+    background-color: rgb(52 211 153);
+}
+
+.hideScrollBar::-webkit-scrollbar-thumb {
+    /* display: none; */
+    background-color: rgb(187 247 208);
+}
