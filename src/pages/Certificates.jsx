@@ -59,7 +59,7 @@ const Certificates = () => {
                     </div>
                 </div>
                 <div className='xl:w-1/2 lg:w-1/2 md:w-full sm:w-full'>
-                    <img src="/certificates.png" alt="certificates-img" />
+                    <img src="/certificates.webp" alt="certificates-img" />
                 </div>
             </Fade>
         </div>

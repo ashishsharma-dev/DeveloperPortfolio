@@ -44,7 +44,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className='xl:w-1/2 lg:w-1/2 md:w-full sm:w-full'>
-                    <img src="/coder.png" alt="code-image" />
+                    <img src="/coder.webp" alt="code-image" />
                 </div>
             </Fade>
 

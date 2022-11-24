@@ -4,9 +4,7 @@ const Projects = () => {
     return (
         <div className='p-4 flex justify-center xl:flex-nowrap lg:flex-nowrap md:flex-wrap-reverse sm:flex-wrap-reverse min-[320px]:flex-wrap-reverse items-center xl:h-screen lg:h-screen md:h-auto sm:h-auto'>
             <Fade bottom cascade>
-
                 <div className='p-6  xl:w-1/2 lg:w-1/2 md:w-full sm:w-full xl:text-start lg:text-start md:text-center sm:text-center'>
-
                     <h2 className="text-6xl text-slate-900 font-bold">
                         Projects
                     </h2>
@@ -56,10 +54,9 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className='xl:w-1/2 lg:w-1/2 md:w-full sm:w-full'>
-                    <img className='w-96 mx-auto' src="/code.png" alt="code-img" />
+                    <img className='w-96 mx-auto' src="/code.webp" alt="code-img" />
                 </div>
             </Fade>
-
         </div>
     )
 }
