@@ -15,7 +15,7 @@ function App() {
             {isShowing ? <FaBars color='#fff' size={25} /> : <FaTimes color='#fff' size={25} />}
           </button>
           <Sidebar hideControl={isShowing} />
-          <Main />
+          <Main setIsShowing={setIsShowing} />
         </div>
       </Router>
     </>

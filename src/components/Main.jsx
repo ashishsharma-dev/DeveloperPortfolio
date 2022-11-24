@@ -6,11 +6,24 @@ import Home from "../pages/Home"
 import Proficiency from "../pages/Experience"
 import Projects from "../pages/Projects"
 import Contact from "../pages/Contact"
+import { useHref } from 'react-router-dom'
+import { useEffect } from "react"
 
-const Main = ({ blur }) => {
+const Main = ({ setIsShowing }) => {
+
+    const urlChange = useHref()
+
+    useEffect(() => {
+        console.log("URL Changed to :" + urlChange)
+        setIsShowing(true)
+    }, [urlChange])
+
+
 
     return (
         <div className="bg-slate-200 h-screen overflow-y-scroll hideScrollBar">
+
+
             <Routes>
                 <Route path='/' element={<Home />} />
                 <Route path='/about' element={<About />} />
