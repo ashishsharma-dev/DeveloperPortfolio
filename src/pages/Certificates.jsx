@@ -16,7 +16,7 @@ const Certificates = () => {
                             <div>
                                 <p className="text-lg font-semibold text-slate-900">Introduction to Java</p>
                                 <p className="text-xs font-semibold text-slate-600">Coding Ninjas</p>
-                                <a href='https://drive.google.com/file/d/18A_5Oa15_XybwI5wiaoMgN3DZGwYxc4p/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credintials</a>
+                                <a href='https://drive.google.com/file/d/18A_5Oa15_XybwI5wiaoMgN3DZGwYxc4p/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credentials</a>
                             </div>
                         </div >
 
@@ -25,7 +25,7 @@ const Certificates = () => {
                             <div>
                                 <p className="text-lg font-semibold text-slate-900">DSA in Java</p>
                                 <p className="text-xs font-semibold text-slate-600">Coding Ninjas</p>
-                                <a href='https://drive.google.com/file/d/1O5tKnWTqZ9JI7ezuqO6V3lHHN_L1ddUG/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credintials</a>
+                                <a href='https://drive.google.com/file/d/1O5tKnWTqZ9JI7ezuqO6V3lHHN_L1ddUG/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credentials</a>
                             </div>
                         </div >
 
@@ -34,7 +34,7 @@ const Certificates = () => {
                             <div>
                                 <p className="text-lg font-semibold text-slate-900">Frontend Web Development</p>
                                 <p className="text-xs font-semibold text-slate-600">Coding Ninjas</p>
-                                <a href='https://drive.google.com/file/d/1uqpehqda-DucDGHXVmy-zB3o6bMWblXU/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credintials</a>
+                                <a href='https://drive.google.com/file/d/1uqpehqda-DucDGHXVmy-zB3o6bMWblXU/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credentials</a>
                             </div>
                         </div >
 
@@ -43,7 +43,7 @@ const Certificates = () => {
                             <div>
                                 <p className="text-lg font-semibold text-slate-900">Backend Web Development</p>
                                 <p className="text-xs font-semibold text-slate-600">Coding Ninjas</p>
-                                <a href='https://drive.google.com/file/d/1Z1nKjwk1-Zx2UpKwXLYzrRKnojaYolle/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credintials</a>
+                                <a href='https://drive.google.com/file/d/1Z1nKjwk1-Zx2UpKwXLYzrRKnojaYolle/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credentials</a>
                             </div>
                         </div >
 
@@ -52,7 +52,7 @@ const Certificates = () => {
                             <div>
                                 <p className="text-lg font-semibold text-slate-900">Responsive Web Design</p>
                                 <p className="text-xs font-semibold text-slate-600">freeCodeCamp</p>
-                                <a href='https://drive.google.com/file/d/18A_5Oa15_XybwI5wiaoMgN3DZGwYxc4p/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credintials</a>
+                                <a href='https://drive.google.com/file/d/18A_5Oa15_XybwI5wiaoMgN3DZGwYxc4p/view' target={'_blank'} className="text-xs font-semibold text-cyan-500 underline">View Credentials</a>
                             </div>
                         </div >
 
