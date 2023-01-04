@@ -17,6 +17,16 @@ const Experience = () => {
                     </div> */}
                         <div className='flex shadow items-center gap-3 py-2  px-4 bg-white hover:bg-emerald-500 hover:text-white transition-colors'>
                             <div >
+                                <img className='rounded-xl w-16 shadow-lg' src="/omk.jpg" alt="img" />
+                            </div>
+                            <div>
+                                <p className="text-xl font-semibold text-slate-900">OMK Solutions</p>
+                                <p className="text-xs font-semibold text-slate-600">Nov 2022 - Currently Working</p>
+                                <p className="text-xs font-bold text-slate-600">Role: Website Developer</p>
+                            </div>
+                        </div >
+                        <div className='flex shadow items-center gap-3 py-2  px-4 bg-white hover:bg-emerald-500 hover:text-white transition-colors'>
+                            <div >
                                 <img className='rounded-xl w-16 shadow-lg' src="/cybermount.png" alt="img" />
                             </div>
                             <div>
