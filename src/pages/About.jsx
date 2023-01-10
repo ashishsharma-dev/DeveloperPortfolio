@@ -12,7 +12,7 @@ const About = () => {
                         What I do
                     </h2>
                     <p className='text-xl text-slate-500 mt-4'>
-                        A Computer Geek with a hunder to learn latest technologies and implement them in real world to solve problems.
+                        A Computer Geek with a hunger to learn latest technologies and implement them in real world to solve problems.
                     </p>
 
                     <div className='grid gap-2 grid-cols-2 mt-6'>
